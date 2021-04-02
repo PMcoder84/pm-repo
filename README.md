@@ -1,3 +1,2 @@
 # pm-repo
-My Learning Phase
-I am learning HTML, CSS & Javascript.
+2 April 2021 - Simple Navbar with Flexbox
